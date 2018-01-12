@@ -1,0 +1,22 @@
+Job Title: SalesForce Lead Developer
+
+Duration: 6 months contract with extension 
+Location: Lisle, Illinois 60532
+Mode of interview: Phone and onsite (local or near location only)  
+
+Education requirement: BS in Computer Science or Engineering
+Years of Experience: 5+ years of experience of development in Salesforce.com platform
+Required/Preferred Certifications: Force.com Developer preferred
+
+Company Profile: An American holding company, that owns the manufacturer of International brand commercial trucks.
+Responsibilities
+•	Lead design and development of Salesforce custom solutions comprising of work in Apex, Visual Force, Salesforce APIs, and data migration.
+•	Facilitate solution design sessions, advocate Salesforce best practices, and recommend alternate approaches.
+•	Design, code, and test solutions. Analyze and mitigate issues identified during testing.
+•	Code custom reports and dashboards.
+•	Follow an iterative software development methodology and contribute to all phases of the software development lifecycle and support.
+•	Facilitate and actively participate in meetings with representatives from business and/or IT units.
+•	Take accountability for quality of deliverables, provide status on development effort, and deliver on time and as per specifications.
+•	Manage Salesforce release activities.
+
+For interested applicants, please call +1 (909)321-4440
